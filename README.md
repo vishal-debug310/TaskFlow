@@ -335,7 +335,7 @@ For larger changes, open an issue first to discuss the proposal.
 
 ## 📄 License
 
-A license file was not provided with the project when this README was prepared. Add a `LICENSE` file before claiming the repository is MIT-licensed or granting reuse permissions.
+No License, You Can Download This Repo:-> By Vishal Kumar.
 
 ---
 
